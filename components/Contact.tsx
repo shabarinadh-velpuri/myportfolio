@@ -28,8 +28,8 @@ const contactLinks = [
   {
     icon: <GitFork size={20} />,
     label: "GitHub",
-    value: "enemy143",
-    href: "https://github.com/enemy143",
+    value: "shabarinadh-velpuri",
+    href: "https://github.com/shabarinadh-velpuri ",
     color: "var(--accent)",
   },
 ];
